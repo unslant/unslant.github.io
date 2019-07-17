@@ -87,6 +87,11 @@ a:hover {
   border-color: var(--color-accent);
 }
 
+.link-unstyled {
+  border-bottom: 0;
+  color: inherit;
+}
+
 .logo {
   height: 1.5em;
   width: auto;
